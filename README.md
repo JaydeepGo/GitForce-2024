@@ -2,7 +2,7 @@
 
 Demo repository for GitForce-2024 Hacktoberfest 2024 event. 
 
-Event Memebers: 
+Event Members: 
 - Manish Soni 
 - Shrieesh
 - Satyam
